@@ -1,4 +1,4 @@
-# peelAnalysis
+# Peel Analysis
 This repository consists code for Peel Analysis i.e. an out-of-the-box concept that dealt with finding meaning from the meaningless. The project aims to use noise in data that is often discarded to derive meaningful associations between variables.
 
 ## Web-Page
